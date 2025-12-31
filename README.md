@@ -11,6 +11,7 @@ To use the libraries, you need to install the required packages. Open your termi
 
 **macOS and Windows Users**:
 pip install pandas
+
 pip install pandas-ai
 
 **Additional Notes for Windows Users**:
